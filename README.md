@@ -15,8 +15,7 @@ both threads stopping
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrou![ezgif com-gif-maker](https://user-images.githubusercontent.com/77579038/172033199-93a0a038-4a07-4ff5-a84f-132e7223e4d5.gif)
-gh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezGIF](https://ezgif.com/).
 
